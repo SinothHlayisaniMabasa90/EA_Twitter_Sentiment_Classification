@@ -28,4 +28,4 @@ train.csv - You will use this data to train your model.
 
 test.csv - You will use this data to test your model.
 
-SampleSubmission.csv - is an example of what your submission file should look like. The order of the rows does not matter, but the names of the tweetid's must be correct.
+Submission.csv - is an example of what your submission file should look like. The order of the rows does not matter, but the names of the tweetid's must be correct.
